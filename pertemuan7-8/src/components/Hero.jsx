@@ -13,7 +13,7 @@ import HeroImg from "../assets/hero-img.png";
         <div className="container grid items-center justify-center mx-auto md:grid-cols-2 md:justify-between">
             <div className="pb-5 hero-info md:pb-0">
             <h1 className="text-4xl lg:text-6xl">
-                Hi, <br />I am <span className="text-accent">a</span>mrin <br />
+                Hi, <br />I am Heris Tenno Janis <span className="text-accent">a</span> mrin <br />
                 Frontend Developer
             </h1>
 

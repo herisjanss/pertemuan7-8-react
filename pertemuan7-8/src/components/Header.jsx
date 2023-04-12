@@ -9,7 +9,7 @@ const Header = () => {
     return (
         <header className="fixed z-10 flex justify-between w-full px-5 py-2 text-white bg-primary">
         <a href="/" className="text-2xl font-bold logo text-accent">
-            Arifin
+            Heris
         </a>
 
         {/* Desktop Nav */}
